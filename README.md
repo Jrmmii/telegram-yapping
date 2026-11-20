@@ -12,4 +12,4 @@ Copy `SKILL.md` into a skill directory, for example:
 ~/.hermes/skills/telegram-yapping/SKILL.md
 ```
 
-See `SKILL.md` for setup, safe operation, testing, and public-repository hygiene.
+`SKILL.md` includes a ready-to-adapt system-prompt template for short, natural replies, voice calibration, dry-run review, and strict pre-send validation. It is guidance only; it does not include an operational bot, account session, API credentials, or group configuration.
